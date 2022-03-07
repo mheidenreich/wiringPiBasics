@@ -6,7 +6,7 @@
     Description: This code is provided in support of the following YouTube tutorial:
                  https://youtu.be/RDAOxX6vqqs
 		 
-    How to compile: 			gcc -Wall -lwiringPi blink.c -o blink
+    How to compile: 			gcc -Wall blink.c -lwiringPi -o blink
     How to run compiled program: 	./blink
 
     This tutorial is an introduction to how to use wiringPi library
