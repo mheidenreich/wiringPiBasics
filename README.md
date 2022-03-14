@@ -1,3 +1,7 @@
+# wiringPiBasics
+
+This project is an introduction to how to use wiringPi library with Raspberry Pi to control LEDs.
+  
 gpio command not working or blink.c does not compile on your system?
 
 Original wiringPi library is deprecated by the original developer and it does not work with latest versions of
