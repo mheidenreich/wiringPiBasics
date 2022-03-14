@@ -6,4 +6,4 @@ command installed, which results in a “command not found error”.
 You can download and build a wiringPi fork to have wiringPi on your latest Pi: https://github.com/WiringPi/WiringPi/
 Simply follow the INSTALL file instructions.
 
-If you are not comfortable with the above or would like the process automated, you can use my update_wiringpi.sh program.
+If you are not comfortable with the above or would like the process automated, you can use my update_wiringpi.sh program to have gpio command and wiringPi for C programming on your system.
