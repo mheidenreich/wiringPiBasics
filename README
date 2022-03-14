@@ -1,6 +1,6 @@
 gpio command not working or blink.c does not compile on your system?
 
-wiringPi library is deprecated by the original developer and it does not work with latest versions of
+Original wiringPi library is deprecated by the original developer and it does not work with latest versions of
 Raspberry Pi. If you have Raspberry Pi 4 or 400 you will receive an “unknown board” error when
 attempting to use the gpio command. Also, latest version of Raspberry Pi OS may not even have the gpio
 command installed, which results in a “command not found error”.
