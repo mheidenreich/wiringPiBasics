@@ -1,0 +1,9 @@
+wiringPi library is deprecated by the original developer and it does not work with latest versions of
+Raspberry Pi. If you have Raspberry Pi 4 or 400 you will receive an “unknown board” error when
+attempting to use the gpio command. Also, latest version of Raspberry Pi OS may not even have the gpio
+command installed, which results in a “command not found error”.
+
+You can download and build a WiringPi fork to have wiringPi on your latest Pi: https://github.com/WiringPi/WiringPi/
+Simply follow the INSTALL file instructions.
+
+If you are not comfortable with the above or would like the process automated, you can use my update_wiringpi.sh program.
