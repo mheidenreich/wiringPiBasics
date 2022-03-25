@@ -18,4 +18,5 @@ If you are not comfortable with the above or would like the process automated, y
 to have gpio command and wiringPi for C programming on your latest Raspberry Pi system.
 
   chmod u+x update_wiringpi.sh
+  
   sudo ./update_wiringpi.sh
