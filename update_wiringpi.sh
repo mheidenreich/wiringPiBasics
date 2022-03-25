@@ -6,7 +6,8 @@
 #    Description:   This program will install latest version of wiringPi
 #                   to allow using it on new versions of Raspberry Pi.
 #
-#    How to run:    . update_wiringpi.sh
+#    How to run:    chmod u+x update_wiringpi.sh
+#                   sudo ./update_wiringpi.sh
 #
 #    THIS SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
 #    INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
