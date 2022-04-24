@@ -19,6 +19,9 @@
 # Remember current working directory
 pushd /tmp > /dev/null
 
+# Install git (not installed by default on Raspberry Pi OS Lite)
+sudo apt install git
+
 # Clone latest wiringPi and build it
 git clone https://github.com/WiringPi/WiringPi
 cd WiringPi
